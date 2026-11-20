@@ -2,7 +2,7 @@
 
 A reference board for interior design students. Keep every reference for a design project in one place: photos, Pinterest links, files, sizes, materials and prices.
 
-**Try it:** https://izza521.github.io/refs-test/
+**Try it:** https://izza521.github.io/Refboard-testing/
 
 ## What it does
 
